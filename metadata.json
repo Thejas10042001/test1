@@ -1,0 +1,5 @@
+{
+  "name": "CIO Evaluation Simulator",
+  "description": "An interactive chat application to simulate a conversation with a Fortune 50 CIO for sales performance evaluation, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
